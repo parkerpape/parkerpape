@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Parker 👋
 
-<!--
-**parkerpape/parkerpape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate student at Vanderbilt University passionate about using data to solve real-world problems. My interests lie in drawing **actionable insights** from **big data** to help **meet client needs**. I'm currently building out personal data science projects to deepen my understanding and prepare for internship opportunities.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 What I’m Working On
+- An algorithm to improve the Vanderbilt course selection process, focused on maximizing credit hour oppurtunity for students
+- Developing a web scrapper to extract race director contacts and event details to maximize efficiency in clientele search process
+- Learning more about machine learning and predicitive modeling
+
+---
+
+### 🛠️ Tech & Tools I Use
+- Python (NumPy, pandas, scikit-learn, matplotlib, seaborn, Plotly)
+- R (tidyverse, dplyr, haven, highcharts)
+- SQL
+- SAS
+- Java
+- Currently exploring: Tableau, Microsoft Power tools, and more!
+
+---
+
+### 📈 Goals for 2025
+- Wrap up open ended projects and improve functionality
+- Contribute to an open-source project
+
+---
+
+### 📫 Get in Touch
+- LinkedIn: [https://www.linkedin.com/in/parker-pape/]
+- Email: [parker.w.pape@vanderbilt.edu]
+
+Thanks for stopping by!
