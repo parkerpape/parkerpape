@@ -12,7 +12,7 @@ I'm an undergraduate student at Vanderbilt University passionate about using dat
 ---
 
 ### 🛠️ Tech & Tools I Use
-- Python (NumPy, pandas, scikit-learn, matplotlib, seaborn, Plotly)
+- Python (NumPy, pandas, matplotlib, seaborn, Plotly, selenium)
 - R (tidyverse, dplyr, haven, highcharts)
 - SQL
 - SAS
