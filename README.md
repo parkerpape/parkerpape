@@ -28,7 +28,7 @@ I'm an undergraduate student at Vanderbilt University passionate about using dat
 ---
 
 ### 📫 Get in Touch
-- LinkedIn: [https://www.linkedin.com/in/parker-pape/]
+- LinkedIn: https://www.linkedin.com/in/parker-pape/
 - Email: parker.w.pape@vanderbilt.edu
 
 Thanks for stopping by!
