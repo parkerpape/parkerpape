@@ -23,7 +23,7 @@ I'm an undergraduate student at Vanderbilt University passionate about using dat
 
 ### 📈 Goals for 2025
 - Wrap up open ended projects and improve functionality
-- Contribute to an open-source project
+- Start one new exciting project for a client
 
 ---
 
