@@ -5,7 +5,7 @@ I'm an undergraduate student at Vanderbilt University passionate about using dat
 ---
 
 ### 🔍 What I’m Working On
-- Analyzing correlating factors of viewership and completion rates on Weather Channel content
+- Analyzing correlating factors of user engagement on Weather Channel content
 - An algorithm to improve the Vanderbilt course selection process, focused on maximizing credit hour oppurtunity for students
 - Developing a web scrapper to extract race director contacts and event details to maximize efficiency in clientele search process
 - Learning more about machine learning and predicitive modeling
