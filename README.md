@@ -5,9 +5,8 @@ I'm an undergraduate student at Vanderbilt University passionate about using dat
 ---
 
 ### 🔍 What I’m Working On
-- Analyzing correlating factors of user engagement on Weather Channel content
-- An algorithm to improve the Vanderbilt course selection process, focused on maximizing credit hour oppurtunity for students
-- Developing a web scrapper to extract race director contacts and event details to maximize efficiency in clientele search process
+- Analyzing UX of Weather Channel content to create new strategies
+- Helping clientele outreach for other buisnesses
 - Learning more about machine learning and predicitive modeling
 
 ---
@@ -15,10 +14,11 @@ I'm an undergraduate student at Vanderbilt University passionate about using dat
 ### 🛠️ Tech & Tools I Use
 - Python (NumPy, pandas, matplotlib, seaborn, Plotly, selenium, vPython, etc...)
 - R (tidyverse, dplyr, haven, highcharts)
+- Amplitude (dashboarding, metric manipulation)
+- Java
 - SQL
 - SAS
-- Java
-- Currently exploring: Tableau, Microsoft Power tools, and more!
+- Currently exploring: Tableau, Microsoft Power tools, and more
 
 ---
 
